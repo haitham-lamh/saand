@@ -1,0 +1,9 @@
+# Utils Folder
+# 
+# This folder will contain utility functions and helper classes, such as:
+# - Image processing utilities
+# - Model preprocessing functions
+# - Constants and configuration values
+# - Helper functions for data conversion
+# 
+# Currently empty - utilities will be added during AI integration.

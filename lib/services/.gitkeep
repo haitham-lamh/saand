@@ -1,0 +1,9 @@
+# Services Folder
+# 
+# This folder will contain service classes that handle business logic and
+# external integrations, such as:
+# - ImageService: Handles image picking, capturing, and processing
+# - ModelService: Manages TensorFlow Lite model loading and inference
+# - CameraService: Handles camera operations and frame capture
+# 
+# Currently empty - services will be added during AI integration.

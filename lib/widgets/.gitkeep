@@ -1,0 +1,9 @@
+# Widgets Folder
+# 
+# This folder will contain reusable custom widgets used throughout the app, such as:
+# - Custom buttons, cards, or input fields
+# - Image display widgets
+# - Recognition result display widgets
+# - Loading indicators specific to the app
+# 
+# Currently empty - widgets will be added as needed during development.
